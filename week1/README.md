@@ -370,7 +370,7 @@ Screenshots of the practical work are stored in the `screenshoots` folder.
 
 ### C# Code Windows Form
 
-![C# Code Windows Forms](screenshoots/image1.png)
+![C# Code Windows Form](screenshoots/image1.png)
 
 ### MessageBox
 
