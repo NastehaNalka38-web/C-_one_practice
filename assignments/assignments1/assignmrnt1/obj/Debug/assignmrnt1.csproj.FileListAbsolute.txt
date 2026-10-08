@@ -1,0 +1,10 @@
+C:\Users\Wireless\Documents\C#_practices\repos\assignmrnt1\bin\Debug\assignmrnt1.exe.config
+C:\Users\Wireless\Documents\C#_practices\repos\assignmrnt1\bin\Debug\assignmrnt1.exe
+C:\Users\Wireless\Documents\C#_practices\repos\assignmrnt1\bin\Debug\assignmrnt1.pdb
+C:\Users\Wireless\Documents\C#_practices\repos\assignmrnt1\obj\Debug\assignmrnt1.csproj.AssemblyReference.cache
+C:\Users\Wireless\Documents\C#_practices\repos\assignmrnt1\obj\Debug\assignmrnt1.Form1.resources
+C:\Users\Wireless\Documents\C#_practices\repos\assignmrnt1\obj\Debug\assignmrnt1.Properties.Resources.resources
+C:\Users\Wireless\Documents\C#_practices\repos\assignmrnt1\obj\Debug\assignmrnt1.csproj.GenerateResource.cache
+C:\Users\Wireless\Documents\C#_practices\repos\assignmrnt1\obj\Debug\assignmrnt1.csproj.CoreCompileInputs.cache
+C:\Users\Wireless\Documents\C#_practices\repos\assignmrnt1\obj\Debug\assignmrnt1.exe
+C:\Users\Wireless\Documents\C#_practices\repos\assignmrnt1\obj\Debug\assignmrnt1.pdb
