@@ -3,7 +3,7 @@
 ![Assignment Two Screenshoot](assignment2.png)
 
 
-## Show Date Button
+## Show Information Button
 Displays the output results or the current date from the user when clicked 
  
 
