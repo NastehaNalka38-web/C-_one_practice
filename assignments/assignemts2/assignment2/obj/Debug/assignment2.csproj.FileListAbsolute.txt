@@ -1,0 +1,10 @@
+C:\Users\Wireless\Documents\C#_practices\C#_one_practice\assignments\assignemts2\assignment2\bin\Debug\assignment2.exe.config
+C:\Users\Wireless\Documents\C#_practices\C#_one_practice\assignments\assignemts2\assignment2\bin\Debug\assignment2.exe
+C:\Users\Wireless\Documents\C#_practices\C#_one_practice\assignments\assignemts2\assignment2\bin\Debug\assignment2.pdb
+C:\Users\Wireless\Documents\C#_practices\C#_one_practice\assignments\assignemts2\assignment2\obj\Debug\assignment2.csproj.AssemblyReference.cache
+C:\Users\Wireless\Documents\C#_practices\C#_one_practice\assignments\assignemts2\assignment2\obj\Debug\assignment2.Form1.resources
+C:\Users\Wireless\Documents\C#_practices\C#_one_practice\assignments\assignemts2\assignment2\obj\Debug\assignment2.Properties.Resources.resources
+C:\Users\Wireless\Documents\C#_practices\C#_one_practice\assignments\assignemts2\assignment2\obj\Debug\assignment2.csproj.GenerateResource.cache
+C:\Users\Wireless\Documents\C#_practices\C#_one_practice\assignments\assignemts2\assignment2\obj\Debug\assignment2.csproj.CoreCompileInputs.cache
+C:\Users\Wireless\Documents\C#_practices\C#_one_practice\assignments\assignemts2\assignment2\obj\Debug\assignment2.exe
+C:\Users\Wireless\Documents\C#_practices\C#_one_practice\assignments\assignemts2\assignment2\obj\Debug\assignment2.pdb

@@ -361,19 +361,16 @@ private void exitButton_Click(object sender, EventArgs e)
 
 # Screenshots
 
-Screenshots of the practical work are stored in the `screenshots` folder.
+Screenshots of the practical work are stored in the `screenshoots` folder.
 
 ### Visual Studio
 
-![Visual Studio](screenshots/01-visual-studio.png)
+![Visual Studio](screenshoots/visualStudio.png)
 
-### Windows Forms
 
-![Windows Forms](screenshots/02-windows-forms.png)
+### C# Code Windows Form
 
-### C# Code
-
-![C# Code](screenshoots/image1.png)
+![C# Code Windows Forms](screenshoots/image1.png)
 
 ### MessageBox
 
