@@ -373,31 +373,21 @@ Screenshots of the practical work are stored in the `screenshots` folder.
 
 ### C# Code
 
-![C# Code](screenshots/03-csharp-code.png)
-
-### Hello World
-
-![Hello World](screenshots/04-hello-world.png)
+![C# Code](screenshoots/image1.png)
 
 ### MessageBox
 
-![MessageBox](screenshots/05-messagebox.png)
+![MessageBox](screenshoots/image3.png)
 
-### Label
-
-![Label](screenshots/06-label.png)
 
 ### PictureBox
 
-![PictureBox](screenshots/07-picturebox.png)
+![PictureBox](screenshoots/image4.png)
 
-### IntelliSense
-
-![IntelliSense](screenshots/08-intellisense.png)
 
 ### Syntax Error
 
-![Syntax Error](screenshots/09-syntax-error.png)
+![Syntax Error](screenshoots/image10.png)
 
 ---
 
