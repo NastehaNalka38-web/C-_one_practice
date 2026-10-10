@@ -8,3 +8,13 @@ C:\Users\Wireless\Documents\C#_practices\repos\ExamplesRadioButton\obj\Debug\Exa
 C:\Users\Wireless\Documents\C#_practices\repos\ExamplesRadioButton\obj\Debug\ExamplesRadioButton.csproj.CoreCompileInputs.cache
 C:\Users\Wireless\Documents\C#_practices\repos\ExamplesRadioButton\obj\Debug\ExamplesRadioButton.exe
 C:\Users\Wireless\Documents\C#_practices\repos\ExamplesRadioButton\obj\Debug\ExamplesRadioButton.pdb
+C:\Users\Wireless\Documents\C#_practices\C#_one_practice\Exampless\ExamplesRadioButton\bin\Debug\ExamplesRadioButton.exe.config
+C:\Users\Wireless\Documents\C#_practices\C#_one_practice\Exampless\ExamplesRadioButton\bin\Debug\ExamplesRadioButton.exe
+C:\Users\Wireless\Documents\C#_practices\C#_one_practice\Exampless\ExamplesRadioButton\bin\Debug\ExamplesRadioButton.pdb
+C:\Users\Wireless\Documents\C#_practices\C#_one_practice\Exampless\ExamplesRadioButton\obj\Debug\ExamplesRadioButton.csproj.AssemblyReference.cache
+C:\Users\Wireless\Documents\C#_practices\C#_one_practice\Exampless\ExamplesRadioButton\obj\Debug\ExamplesRadioButton.Form1.resources
+C:\Users\Wireless\Documents\C#_practices\C#_one_practice\Exampless\ExamplesRadioButton\obj\Debug\ExamplesRadioButton.Properties.Resources.resources
+C:\Users\Wireless\Documents\C#_practices\C#_one_practice\Exampless\ExamplesRadioButton\obj\Debug\ExamplesRadioButton.csproj.GenerateResource.cache
+C:\Users\Wireless\Documents\C#_practices\C#_one_practice\Exampless\ExamplesRadioButton\obj\Debug\ExamplesRadioButton.csproj.CoreCompileInputs.cache
+C:\Users\Wireless\Documents\C#_practices\C#_one_practice\Exampless\ExamplesRadioButton\obj\Debug\ExamplesRadioButton.exe
+C:\Users\Wireless\Documents\C#_practices\C#_one_practice\Exampless\ExamplesRadioButton\obj\Debug\ExamplesRadioButton.pdb
