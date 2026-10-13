@@ -20,9 +20,9 @@ namespace ExamplesRadioButton
         private void saveBtn_Click(object sender, EventArgs e)
         {
             //creating variable
-            string name, gender;
+            string gender;
             string faculty = "";
-            int age, validation;
+            int validation;
             if(int.TryParse(txtAge.Text, out validation))
             {
                 if(radioMale.Checked)
