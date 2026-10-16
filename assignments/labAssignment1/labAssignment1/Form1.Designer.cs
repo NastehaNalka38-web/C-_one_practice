@@ -174,52 +174,54 @@
             // txtGuestName
             // 
             this.txtGuestName.Font = new System.Drawing.Font("Verdana", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtGuestName.Location = new System.Drawing.Point(506, 95);
+            this.txtGuestName.Location = new System.Drawing.Point(499, 95);
             this.txtGuestName.Multiline = true;
             this.txtGuestName.Name = "txtGuestName";
-            this.txtGuestName.Size = new System.Drawing.Size(356, 40);
+            this.txtGuestName.Size = new System.Drawing.Size(363, 40);
             this.txtGuestName.TabIndex = 0;
             // 
             // listBox1
             // 
+            this.listBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.listBox1.FormattingEnabled = true;
-            this.listBox1.ItemHeight = 20;
-            this.listBox1.Location = new System.Drawing.Point(961, 68);
+            this.listBox1.ItemHeight = 25;
+            this.listBox1.Location = new System.Drawing.Point(936, 68);
+            this.listBox1.Margin = new System.Windows.Forms.Padding(5);
             this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(381, 524);
+            this.listBox1.Size = new System.Drawing.Size(461, 629);
             this.listBox1.TabIndex = 8;
             // 
             // txtNumOfGuests
             // 
             this.txtNumOfGuests.Font = new System.Drawing.Font("Verdana", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtNumOfGuests.Location = new System.Drawing.Point(506, 313);
+            this.txtNumOfGuests.Location = new System.Drawing.Point(499, 302);
             this.txtNumOfGuests.Multiline = true;
             this.txtNumOfGuests.Name = "txtNumOfGuests";
-            this.txtNumOfGuests.Size = new System.Drawing.Size(356, 29);
+            this.txtNumOfGuests.Size = new System.Drawing.Size(363, 40);
             this.txtNumOfGuests.TabIndex = 3;
             // 
             // txtNumOfNights
             // 
             this.txtNumOfNights.Font = new System.Drawing.Font("Verdana", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtNumOfNights.Location = new System.Drawing.Point(506, 234);
+            this.txtNumOfNights.Location = new System.Drawing.Point(499, 234);
             this.txtNumOfNights.Multiline = true;
             this.txtNumOfNights.Name = "txtNumOfNights";
-            this.txtNumOfNights.Size = new System.Drawing.Size(356, 38);
+            this.txtNumOfNights.Size = new System.Drawing.Size(363, 38);
             this.txtNumOfNights.TabIndex = 2;
             // 
             // txtGuestAge
             // 
             this.txtGuestAge.Font = new System.Drawing.Font("Verdana", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtGuestAge.Location = new System.Drawing.Point(506, 170);
+            this.txtGuestAge.Location = new System.Drawing.Point(499, 170);
             this.txtGuestAge.Multiline = true;
             this.txtGuestAge.Name = "txtGuestAge";
-            this.txtGuestAge.Size = new System.Drawing.Size(356, 39);
+            this.txtGuestAge.Size = new System.Drawing.Size(363, 39);
             this.txtGuestAge.TabIndex = 1;
             // 
             // calculateBtn
             // 
             this.calculateBtn.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.calculateBtn.Location = new System.Drawing.Point(111, 651);
+            this.calculateBtn.Location = new System.Drawing.Point(111, 661);
             this.calculateBtn.Name = "calculateBtn";
             this.calculateBtn.Size = new System.Drawing.Size(189, 52);
             this.calculateBtn.TabIndex = 4;
@@ -230,28 +232,31 @@
             // clearBtn
             // 
             this.clearBtn.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.clearBtn.Location = new System.Drawing.Point(429, 651);
+            this.clearBtn.Location = new System.Drawing.Point(368, 661);
             this.clearBtn.Name = "clearBtn";
             this.clearBtn.Size = new System.Drawing.Size(189, 52);
             this.clearBtn.TabIndex = 5;
             this.clearBtn.Text = "Clear";
             this.clearBtn.UseVisualStyleBackColor = true;
+            this.clearBtn.Click += new System.EventHandler(this.clearBtn_Click);
             // 
             // exitBtn
             // 
             this.exitBtn.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.exitBtn.Location = new System.Drawing.Point(728, 651);
+            this.exitBtn.Location = new System.Drawing.Point(673, 661);
             this.exitBtn.Name = "exitBtn";
             this.exitBtn.Size = new System.Drawing.Size(189, 52);
             this.exitBtn.TabIndex = 6;
             this.exitBtn.Text = "Exit";
             this.exitBtn.UseVisualStyleBackColor = true;
+            this.exitBtn.Click += new System.EventHandler(this.exitBtn_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1287, 729);
+            this.BackColor = System.Drawing.Color.LightSkyBlue;
+            this.ClientSize = new System.Drawing.Size(1411, 742);
             this.Controls.Add(this.exitBtn);
             this.Controls.Add(this.clearBtn);
             this.Controls.Add(this.calculateBtn);

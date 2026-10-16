@@ -24,6 +24,26 @@ namespace labAssignment1
         int guestAge, numOfNights, numOfGuests;
 
         double breakfastCost, discountAmount, DiscountRate;
+
+        private void exitBtn_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void clearBtn_Click(object sender, EventArgs e)
+        {
+            // Clear all input fields
+            txtGuestName.Clear();
+            txtGuestAge.Clear();
+            txtNumOfNights.Clear();
+            txtNumOfGuests.Clear();
+            rStandard.Checked = false;
+            rNormal.Checked = false;
+            rHight.Checked = false;
+            checkBreakFast.Checked = false;
+            listBox1.Items.Clear();
+        }
+
         double RoomCost, Rate, serviceCharge, seniorDiscount;
 
         const int STANDAR_RATE = 50;
@@ -249,10 +269,22 @@ namespace labAssignment1
                 listBox1.Items.Add("");
                 listBox1.Items.Add("==========================");
                 listBox1.Items.Add("Booking Status: APPROVED");
+
+                //if (numOfNights >= 4)
+                //{
+                //    listBox1.Items.Add("Booking Status: APPROVED");
+
+                //}
+                //else
+                //{
+                //    listBox1.Items.Add("Booking Status: REJECTED");
+                //}
             }
             else
             {
                 listBox1.Items.Clear();
+                listBox1.Items.Add("");
+                listBox1.Items.Add("==========================");
                 listBox1.Items.Add("Booking Status: REJECTED");
             }
 
