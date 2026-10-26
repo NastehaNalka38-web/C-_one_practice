@@ -85,7 +85,7 @@ namespace labAssignment3
                 }
                 else
                 {
-                    MessageBox.Show("number of pacckage and price number caanot less than 0");
+                    MessageBox.Show("number of package, price and age caanot less than 0");
                 }
 
             }
@@ -99,6 +99,7 @@ namespace labAssignment3
         {
             txtNumOfPackage.Clear();
             txtPrice.Clear();
+            txtAge.Clear();
             listBox1.Items.Clear();
         }
 

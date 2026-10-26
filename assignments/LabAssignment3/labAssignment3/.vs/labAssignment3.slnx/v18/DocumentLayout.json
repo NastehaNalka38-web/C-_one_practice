@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{CB804E70-8D73-4E9A-AE15-066598FF75C0}|labAssignment3.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB804E70-8D73-4E9A-AE15-066598FF75C0}|labAssignment3.csproj|c:\\users\\wireless\\documents\\c#_practices\\c#_one_practice\\assignments\\labassignment3\\labassignment3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CB804E70-8D73-4E9A-AE15-066598FF75C0}|labAssignment3.csproj|C:\\Users\\Wireless\\Documents\\C#_practices\\C#_one_practice\\assignments\\LabAssignment3\\labAssignment3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB804E70-8D73-4E9A-AE15-066598FF75C0}|labAssignment3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,8 +34,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-26T09:18:28.733Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-26T09:18:28.733Z"
             },
             {
               "$type": "Document",
@@ -45,7 +44,7 @@
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\Wireless\\Documents\\C#_practices\\C#_one_practice\\assignments\\LabAssignment3\\labAssignment3\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAEYAAAAAAAAAAADwv1IAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAADoAAAAAAAAAAADwv1UAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-25T13:06:37.154Z",
               "EditorCaption": ""
@@ -59,8 +58,7 @@
               "ToolTip": "C:\\Users\\Wireless\\Documents\\C#_practices\\C#_one_practice\\assignments\\LabAssignment3\\labAssignment3\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-25T13:00:47.029Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-10-25T13:00:47.029Z"
             }
           ]
         }
