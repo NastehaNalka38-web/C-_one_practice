@@ -80,7 +80,7 @@ namespace labAssignment3
                     }
                     else
                     {
-                        MessageBox.Show("Age must be grater 25");
+                        MessageBox.Show("Age must be gratear 25");
                     }
                 }
                 else
