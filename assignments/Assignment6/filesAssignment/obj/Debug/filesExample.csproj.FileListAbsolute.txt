@@ -1,0 +1,10 @@
+C:\Users\Wireless\Documents\C#_practices\repos\filesExample\bin\Debug\filesExample.exe.config
+C:\Users\Wireless\Documents\C#_practices\repos\filesExample\bin\Debug\filesExample.exe
+C:\Users\Wireless\Documents\C#_practices\repos\filesExample\bin\Debug\filesExample.pdb
+C:\Users\Wireless\Documents\C#_practices\repos\filesExample\obj\Debug\filesExample.csproj.AssemblyReference.cache
+C:\Users\Wireless\Documents\C#_practices\repos\filesExample\obj\Debug\filesExample.Form1.resources
+C:\Users\Wireless\Documents\C#_practices\repos\filesExample\obj\Debug\filesExample.Properties.Resources.resources
+C:\Users\Wireless\Documents\C#_practices\repos\filesExample\obj\Debug\filesExample.csproj.GenerateResource.cache
+C:\Users\Wireless\Documents\C#_practices\repos\filesExample\obj\Debug\filesExample.csproj.CoreCompileInputs.cache
+C:\Users\Wireless\Documents\C#_practices\repos\filesExample\obj\Debug\filesExample.exe
+C:\Users\Wireless\Documents\C#_practices\repos\filesExample\obj\Debug\filesExample.pdb
