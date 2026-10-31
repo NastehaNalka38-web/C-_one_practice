@@ -87,7 +87,7 @@ The main idea is to understand **what the code does, why it is used, and what re
 
 The `if` statement executes a block of code only when its Boolean condition is true.
 
-[If Statement](/week3/screenshoots/if.png)
+![If Statement](/week3/screenshoots/if.png)
 
 ### Relational Operators
 
@@ -102,19 +102,19 @@ Relational operators compare two values.
 | `==` | Equal to |
 | `!=` | Not equal to |
 
-[Relational Operators](/week3/screenshoots/relationalOp.png)
+![Relational Operators](/week3/screenshoots/relationalOp.png)
 
 ### The if-else Statement
 
 The `if-else` statement executes one block when a condition is true and another block when it is false.
 
-[If-Else Statement](/week3/screenshoots/ifElse.png)
+![If-Else Statement](/week3/screenshoots/ifElse.png)
 
 ### Nested Decision Structures
 
 Nested decision structures allow one decision to be placed inside another decision. They are useful when a program needs to check more than one condition.
 
-[Nested Decision Structures](/week3/screenshoots/nestedDecision.png)
+![Nested Decision Structures](/week3/screenshoots/nestedDecision.png)
 
 ### The if-else-if Statement
 
@@ -122,7 +122,7 @@ The `if-else-if` statement checks multiple conditions to determine which action 
 
 For example, it can be used to calculate student grades based on examination scores.
 
-[If-Else-If Statement](/week3/screenshoots/ifElseIf.png)
+![If-Else-If Statement](/week3/screenshoots/ifElseIf.png)
 
 ### Logical Operators
 
@@ -132,7 +132,7 @@ Logical operators combine or reverse Boolean expressions.
 - `||` — OR: at least one condition must be true.
 - `!` — NOT: reverses a Boolean condition.
 
-[Logical Operators](/week3/screenshoots/logicalOp.png)
+![Logical Operators](/week3/screenshoots/logicalOp.png)
 
 ### Bool Variables and Flags
 
@@ -145,7 +145,7 @@ A flag is a Boolean variable used to indicate whether a particular condition exi
 
 C# allows strings to be compared using the `==` and `!=` operators. The `String.Compare()` method can also be used to compare strings.
 
-[String Comparison](/week3/screenshoots/stringComparison.png)
+![String Comparison](/week3/screenshoots/stringComparison.png)
 
 ### Preventing Data Conversion Exceptions with TryParse()
 
@@ -157,7 +157,7 @@ Examples include:
 - `double.TryParse()`
 - `decimal.TryParse()`
 
-[TryParse](/week3/screenshoots/tryParse.png)
+![TryParse](/week3/screenshoots/tryParse.png)
 
 ### Input Validation
 
@@ -165,7 +165,7 @@ Input validation checks whether entered data is valid before the program uses it
 
 For example, a program can check whether working hours are between 1 and 168 or whether a test score is between 0 and 100.
 
-[Input Validation](/week3/screenshoots/inputValidation.png)
+![Input Validation](/week3/screenshoots/inputValidation.png)
 
 ### RadioButtons
 
@@ -173,7 +173,7 @@ RadioButtons allow users to select one option from several choices. When RadioBu
 
 The `Checked` property determines whether a RadioButton is selected.
 
-[RadioButtons](/week3/screenshoots/radioButton.png)
+![RadioButtons](/week3/screenshoots/radioButton.png)
 
 ### CheckBoxes
 
@@ -181,7 +181,7 @@ CheckBoxes allow users to select multiple options.
 
 The `Checked` property determines whether a CheckBox is selected.
 
-[CheckBoxes](/week3/screenshoots/checkBox.png)
+![CheckBoxes](/week3/screenshoots/checkBox.png)
 
 ### The CheckedChanged Event
 
@@ -189,7 +189,7 @@ The `CheckedChanged` event occurs when the `Checked` property of a RadioButton o
 
 This event allows the program to respond when the user selects or deselects a control.
 
-[CheckedChanged Event](/week3/screenshoots/checked.png)
+![CheckedChanged Event](/week3/screenshoots/checked.png)
 
 ### The switch Statement
 
@@ -197,7 +197,7 @@ The `switch` statement selects a path of execution based on the value of an expr
 
 The `default` section handles values that do not match any case.
 
-[Switch Statement](/week3/screenshoots/switch.png)
+![Switch Statement](/week3/screenshoots/switch.png)
 
 ### Introduction to ListBox
 
@@ -211,7 +211,7 @@ Common ListBox properties include:
 - `SelectedItem` — the currently selected item.
 - `SelectedIndex` — the zero-based index of the selected item.
 
-[ListBox Control](/week3/screenshoots/listbox.png)
+![ListBox Control](/week3/screenshoots/listbox.png)
 
 ### Adding Items to a ListBox
 
@@ -225,7 +225,7 @@ daysListBox.Items.Add("Tuesday");
 daysListBox.Items.Add("Wednesday");
 ```
 
-[Adding ListBox Items](/week3/screenshoots/AddingListBoxItem.png)
+![Adding ListBox Items](/week3/screenshoots/AddingListBoxItem.png)
 
 ### Selecting an Item from a ListBox
 
@@ -242,7 +242,7 @@ The `Items.RemoveAt()` method removes an item using its index.
 
 The `Items.Clear()` method removes all items from the ListBox.
 
-[Removing ListBox Items](/week3/screenshoots/removeListItem.png)
+![Removing ListBox Items](/week3/screenshoots/removeListItem.png)
 
 ## Final Summary
 
